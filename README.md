@@ -32,11 +32,11 @@ It handles all the technical parts like Git integration, so contributions flow s
 - 🔭 I’m currently working on translations for the Fedora Project, especially Fedora Websites.
 - 🌱 I’m currently learning Python and exploring how to contribute through GitHub.
 - 👯 I’m looking to collaborate on open source translation projects and beginner friendly contributions.
-- 🤔 I’m looking for help with improving my workflow using Linux, Weblate, and development tools.
+- 🤔 I’m looking for help with improving my workflow, Weblate, and development tools.
 - 💬 Ask me about translation, Fedora, Linux setups, or organizing digital workflows.
-- 📫 How to reach me: (you can add your preferred contact here if you want)
+- 📫 How to reach me: through my email: nki.life@pm.me
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love rhythm games, Linux customization, and exploring the internet like a digital wanderer.
+- ⚡ Fun fact: I NEED A .IVY DOMAINNNN
 
 
 
