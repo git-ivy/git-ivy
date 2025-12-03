@@ -38,7 +38,13 @@ It handles all the technical parts like Git integration, so contributions flow s
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I NEED A .IVY DOMAINNNN
 
-
+---
+## New session!
+Im tryin to create new info here, spoilers:
+- pc specs
+- setup
+- obsidian
+- other socials (like, all of them)
 
 
 
