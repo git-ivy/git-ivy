@@ -1,4 +1,4 @@
-# 🦋 Hello! I'm Nari
+# Hello! I'm Nari
 
 I enjoy learning, exploring, and contributing to the open source.  
 Lately, I’ve been working with translations on **Weblate**, helping projects like **Fedora** become more accessible for Brazilian Portuguese speakers.
@@ -6,7 +6,7 @@ I also enjoy tweaking Linux, organizing my digital life, collecting games, and e
 
 ---
 
-## 🌐 What I do on Weblate
+## What I do on Weblate
 
 I contribute by translating, reviewing, and adding context across several open source projects.  
 My main focus right now:
@@ -15,12 +15,12 @@ My main focus right now:
 - Documentation and interface translations in the Fedora ecosystem
 - Fixing inconsistencies and improving clarity in texts
 
-## ✨ What Weblate is
+## What Weblate is
 
 Weblate is a collaborative translation platform that lets anyone translate software, websites, and documentation directly from the browser.  
 It handles all the technical parts like Git integration, so contributions flow straight into official repositories without hassle.
 
-## 💡 Why I contribute
+## Why I contribute
 
 - Access in your own language matters  
 - Open source lives through its community  
@@ -39,7 +39,7 @@ It handles all the technical parts like Git integration, so contributions flow s
 - ⚡ Fun fact: I NEED A .IVY DOMAINNNN
 
 ---
-
+(this text, it was resumed with LLMs, see kobold.cpp for more details)
 
 <!--
 **git-ivy/git-ivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
