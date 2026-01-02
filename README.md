@@ -6,28 +6,6 @@ I also enjoy tweaking Linux, organizing my digital life, collecting games, and e
 
 ---
 
-## What I do on Weblate
-
-I contribute by translating, reviewing, and adding context across several open source projects.  
-My main focus right now:
-
-- Translations for **Fedora Websites**
-- Documentation and interface translations in the Fedora ecosystem
-- Fixing inconsistencies and improving clarity in texts
-
-## What Weblate is
-
-Weblate is a collaborative translation platform that lets anyone translate software, websites, and documentation directly from the browser.  
-It handles all the technical parts like Git integration, so contributions flow straight into official repositories without hassle.
-
-## Why I contribute
-
-- Access in your own language matters  
-- Open source lives through its community  
-- Learning through translation is fun  
-- And contributing back to the projects I use feels good  
-
----
 ## the readme template lol
 - 🔭 I’m currently working on translations for the Fedora Project, especially Fedora Websites.
 - 🌱 I’m currently learning Python and exploring how to contribute through GitHub.
